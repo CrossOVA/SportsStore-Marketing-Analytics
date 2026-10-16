@@ -1,0 +1,17 @@
+# Исходные данные
+shop_database.db
+personal_data.csv
+personal_data.csv.gz
+ids_first_company_positive.txt
+ids_first_company_negative.txt
+
+# Таблицы, формируемые ноутбуком
+Покупки страна 32.csv.gz
+Клиенты страна 32.csv.gz
+Кластеры клиентов.csv
+Рейтинг клиентов города 1188.csv
+project_outputs_checked/
+
+# Временные файлы Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
